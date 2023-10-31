@@ -2,7 +2,7 @@
 2D, exploration, crafting, sci-fi
 
 ## Itch.io 
-coming soon
+https://meshanda.itch.io/starscape
  
 ## Context
 This game has been made for educational purpose during the second year of the Msc Video Game programming in Gaming Campus with the supervision of Peter Vystavel.  
